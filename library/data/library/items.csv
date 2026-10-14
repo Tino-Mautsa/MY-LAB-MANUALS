@@ -1,0 +1,6 @@
+type,id,title,extra1,extra2
+BOOK,B001,Clean Code,Robert C. Martin,9780132350884
+BOOK,B002,Effective Java,Joshua Bloch,9780134685991
+BOOK,B003,The Pragmatic Programmer,David Thomas,9780135957059
+BOOK,B004,Design Patterns,Erich Gamma,9780201633610
+DVD,D001,Inception,148,
